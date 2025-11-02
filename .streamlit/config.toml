@@ -1,0 +1,13 @@
+[server]
+headless = true
+address = "0.0.0.0"
+port = 5000
+
+[theme]
+base = "dark"
+primaryColor = "#4F46E5" # Indigo-600 (strong accessible accent)
+backgroundColor = "#0B1220" # Very dark navy
+secondaryBackgroundColor = "#0F1724" # Dark slate for panels
+textColor = "#E6EEF8" # Soft, high-contrast text
+font = "sans serif"
+
