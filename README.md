@@ -104,3 +104,9 @@ Use the sidebar to switch pages at any time. Streamlit remembers state within th
 - Video [Link](https://drive.google.com/file/d/1M6lRwNZHqXIaGwbrobXMenG-9ngpQZUg/view?usp=sharing)
 - PPT [Link](https://www.canva.com/design/DAG3jANI9IM/Px1p2onHiDJ6V4sWjkLTHQ/edit?utm_content=DAG3jANI9IM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - Report [Link](https://docs.google.com/document/d/1aSMvTCXIEwrQNmqjffPeiaypL8hV3J8W/edit?usp=drive_link&ouid=104500843271335283469&rtpof=true&sd=true)
+
+### Project by 
+- Krishna Reddy
+- Vedant Phand 
+- Tanmay Khanna
+- Simar Lamba
